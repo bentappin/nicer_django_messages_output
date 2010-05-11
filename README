@@ -1,0 +1,8 @@
+This project demonstrates how to use my Django template tag to improve the way you can display user feedback messages from the Messages Framework in Django 1.2.
+
+To get going...
+git clone git://github.com/mrben/nicer_django_messages_output.git
+cd nicer_django_messages_output
+python manage.py syncdb
+
+Feel free to user any of it, however you want. This work is in the public domain. http://creativecommons.org/licenses/publicdomain/
